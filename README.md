@@ -4,7 +4,7 @@ Firstly, to create missingness in the dataset,for each feature I have removed 5%
 
 I have performed 3 nearest neighbor imputation methods to find nearest neighbors:
 (1)1-NN (2)k-NN (3)weighted k-NN
-I have used Euclidean Distance and Manhattan Distance as distance measures.
+using Euclidean Distance and Manhattan Distance as distance measures.
 
 Then as a result, I have calculated accuracy of imputation for each feature and stored it in "results.xlsx" file.
 
